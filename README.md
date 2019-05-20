@@ -1,3 +1,3 @@
-# QConsolidate
+# Uncomplic8
 
-Application to facilitate asking questions in lectures
+Web Application for real-time feedback to lecturers and for asking questions
