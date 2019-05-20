@@ -1,0 +1,15 @@
+categories:
+- machine learning education
+conversations:
+- - What are the types of machine learning algorithims?
+  - Supervised Learning, Unsupervised Learning, Reinforcement Learning
+- - What are some frameworks for machine learning
+  - Tensorflow,Pytorch, Keras
+- - Which computer vision tool to use
+  - OpenCV
+- - List of useful clustering algorithims
+  - Kmeans Clustering,Mean Shift Clustering,Density Based Spatial Clustering of Applications with Noise,Expectation Maximization (EM) Clustering using Gaussian Mixture Models,Agglomerative Hierarchical Clustering 
+- - Differnce between deep learning and machine learning
+  - Deep learning has greater models and parameters due to greater network of neurons being processed
+ 
+
